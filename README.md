@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/82320340/115971346-9a528c80-a550-11eb-
 1. User send command with remote control to IR reader or click on arcade button . 
 (Note: currently I add 2 remotes, you can add/remove/change it) 
 2. IR-reader/button signal connect to Arduino.
-3. Arduino decide which dirction to move or if it's possible to move.  
+3. Arduino decide which direction to move or if it's possible to move.  
 4. Arduino control stepper motor and sense inductive sensors.
 
 
