@@ -16,3 +16,6 @@ https://user-images.githubusercontent.com/82320340/115971346-9a528c80-a550-11eb-
 2. IR-reader/button signal connect to Arduino.
 3. Arduino decide which dirction to move or if it's possible to move.  
 4. Arduino control stepper motor and sense inductive sensors.
+
+
+you can check mechanical design at solidworks folder or electrical design in electrical drawing .
